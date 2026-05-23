@@ -1,4 +1,4 @@
-# PEX-1
+# EX-1
 
 ## Aim
 To study basic prompt engineering techniques.
